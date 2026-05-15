@@ -1,0 +1,6 @@
+x = [2,5,10,20,11,43,23,8]
+
+print ("Even numbers are :")
+for num in x :
+    if num % 2 == 0:
+       print(num)
